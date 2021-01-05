@@ -4,13 +4,13 @@
   "lastUpdated": "2020-01-05T12:04:00.000Z",
   "movies": [
     {
-      "id": "201708127",
+      "id": "94005",
       "title": "Borealis",
       "shortDescription": "Explore how the plants and the animals of Canada’s boreal forest communicate and survive in this unique cinematic documentary by acclaimed director Kevin McMahon (Waterlife).",
       "longDescription": "In his new feature documentary Borealis, acclaimed director Kevin McMahon (Waterlife) travels deep into the heart of the boreal forest to explore the chorus of life in Canada’s iconic wilderness. How do trees move, communicate and survive the destructive forces of fire, insects, and human encroachment? Borealis offers an immersive portrait of the lifecycles of the forest from the perspective of the plants and animals that live there.",
       "thumbnail": "https://dkyhanv6paotz.cloudfront.net/medias/nfb_tube/thumbs_large/2020/borealis-title-LG.jpg",
       "genres": ["documentary"],
-      "tags": ["documentary"],
+      "tags": ["documentary", "new releases"],
       "releaseDate": "2020-12-15",
       "content": {
           "language": "en",
@@ -42,6 +42,56 @@
             "birthDate": "1952-03-11"
           }
        ]
+    },
+    {
+      "id": "94003",
+      "title": "The End of Certainties",
+      "shortDescription": "More than a decade after the worldwide financial crisis of 2007–08, what does globalization mean today? Filmmaker-philosopher Jean-Daniel Lafond takes us behind the scenes of the International Economic Forum of the Americas, a massive annual gathering at which economists, financiers and politicians hold forth on the key issues of the day. Featuring first-hand testimonials by nearly two dozen influential men and women, The End of Certainties unfolds as a multi-voice meditation on the state of the world. This observational documentary offers a cogent assessment of globalization—and its ideals, disillusionment, fears and hopes—and the quest for a new humanism, characterized by greater inclusiveness and fairness.",
+      "longDescription": "More than a decade after the worldwide financial crisis of 2007–08, what does globalization mean today? Filmmaker-philosopher Jean-Daniel Lafond takes us behind the scenes of the International Economic Forum of the Americas, a massive annual gathering at which economists, financiers and politicians hold forth on the key issues of the day. Featuring first-hand testimonials by nearly two dozen influential men and women, The End of Certainties unfolds as a multi-voice meditation on the state of the world. This observational documentary offers a cogent assessment of globalization—and its ideals, disillusionment, fears and hopes—and the quest for a new humanism, characterized by greater inclusiveness and fairness.",
+      "thumbnail": "https://dkyhanv6paotz.cloudfront.net/medias/nfb_tube/thumbs_large/2020/the-end-of-certainties-title-LG.jpg",
+      "genres": ["documentary","news"],
+      "tags": ["documentary", "new releases"],
+      "releaseDate": "2020-12-14",
+      "content": {
+          "language": "en",
+          "dateAdded": "2020-12-14T14:14:54.431Z",
+          "duration": 2722,
+          "videos": [
+            {
+              "url": "https://www.kaltura.com/p/2081491/sp/0/playManifest/entryId/1_a5fuem6n/format/applehttp/protocol/https/flavorParamId/a/video.m3u8",
+              "quality": "FHD",
+              "videoType": "HLS"
+            }
+          ]
+       },
+       "rating": {
+         "rating": "G",
+         "ratingSource": "CPR"
+       },
+       "credits": [
+         {
+            "name": "Jean-Daneil Lafond",
+            "role": "director",
+            "birthDate": "1952-03-11"
+          }
+       ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "New Releases",
+      "playlistName": "new_releases",
+      "order": "manual"
+    }
+  ],
+  "playlists": [
+    {
+      "name": "new_releases",
+      "itemIds": [
+          "94005",
+          "94003",
+          "1509428502954"
+      ]
     }
   ]
 }
