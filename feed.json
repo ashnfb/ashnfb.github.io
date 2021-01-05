@@ -1,0 +1,47 @@
+{
+  "providerName": "NFB",
+  "language": "en-us",
+  "lastUpdated": "2019-09-30T18:12:32.125Z",
+  "movies": [
+    {
+      "id": "201708127",
+      "title": "Borealis",
+      "shortDescription": "Explore how the plants and the animals of Canada’s boreal forest communicate and survive in this unique cinematic documentary by acclaimed director Kevin McMahon (Waterlife).",
+      "longDescription": "In his new feature documentary Borealis, acclaimed director Kevin McMahon (Waterlife) travels deep into the heart of the boreal forest to explore the chorus of life in Canada’s iconic wilderness. How do trees move, communicate and survive the destructive forces of fire, insects, and human encroachment? Borealis offers an immersive portrait of the lifecycles of the forest from the perspective of the plants and animals that live there.",
+      "thumbnail": "https://dkyhanv6paotz.cloudfront.net/medias/nfb_tube/thumbs_large/2020/borealis-title-LG.jpg",
+      "genres": ["documentary"],
+      "tags": ["comedy"],
+      "releaseDate": "2020-12-15",
+      "content": {
+          "language": "en",
+          "dateAdded": "2019-10-31T14:14:54.431Z",
+          "captions": [
+            {
+              "url": "https://pstream.nfb.ca/FLASH/flash4/collection4…eams/TTXT/films/1015271_1015270_DM-13781_-.vtt",
+              "language": "en",
+              "captionType": "CLOSED_CAPTION"
+            }
+          ],
+          "duration": 5400,
+          "videos": [
+            {
+              "url": "https://www.kaltura.com/p/2081491/sp/0/playManifest/entryId/1_w4pcoh5r/format/applehttp/protocol/https/flavorParamId/a/video.m3u8",
+              "quality": "FHD",
+              "videoType": "HLS"
+            }
+          ]
+       },
+       "rating": {
+         "rating": "PG",
+         "ratingSource": "CPR"
+       },
+       "credits": [
+         {
+            "name": "Kevin McMahon",
+            "role": "director",
+            "birthDate": "1952-03-11"
+          }
+       ]
+    }
+  ]
+}
