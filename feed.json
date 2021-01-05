@@ -1,7 +1,7 @@
 {
   "providerName": "NFB",
   "language": "en-us",
-  "lastUpdated": "2020-01-05T12:00:00.000Z",
+  "lastUpdated": "2020-01-05T12:04:00.000Z",
   "movies": [
     {
       "id": "201708127",
@@ -10,7 +10,7 @@
       "longDescription": "In his new feature documentary Borealis, acclaimed director Kevin McMahon (Waterlife) travels deep into the heart of the boreal forest to explore the chorus of life in Canada’s iconic wilderness. How do trees move, communicate and survive the destructive forces of fire, insects, and human encroachment? Borealis offers an immersive portrait of the lifecycles of the forest from the perspective of the plants and animals that live there.",
       "thumbnail": "https://dkyhanv6paotz.cloudfront.net/medias/nfb_tube/thumbs_large/2020/borealis-title-LG.jpg",
       "genres": ["documentary"],
-      "tags": ["comedy"],
+      "tags": ["documentary"],
       "releaseDate": "2020-12-15",
       "content": {
           "language": "en",
