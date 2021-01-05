@@ -1,7 +1,7 @@
 {
   "providerName": "NFB",
   "language": "en-us",
-  "lastUpdated": "2020-01-05T15:18:00.000Z",
+  "lastUpdated": "2020-01-05T15:39:00.000Z",
   "movies": [
     {
       "id": "94005",
@@ -75,7 +75,47 @@
             "birthDate": "1952-03-11"
           }
        ]
-    }
+    },
+    {
+      "id": "92301",
+      "title": "As the Crow Flies",
+      "shortDescription": "Every summer, the Royal Canadian Air Cadets offers its top cadets the chance to participate in an elite flight-training camp. <strong><em>As the Crow Flies</em></strong> follows a group of these young men and women as they undergo seven weeks of training to get their pilot’s license in an intense program that normally takes six to eight months.",
+      "longDescription": "Every summer, the Royal Canadian Air Cadets offers its top cadets the chance to participate in an elite flight-training camp. <strong><em>As the Crow Flies</em></strong> follows a group of these young men and women as they undergo seven weeks of training to get their pilot’s license in an intense program that normally takes six to eight months.",
+      "thumbnail": "https://dkyhanv6paotz.cloudfront.net/medias/nfb_tube/thumbs_large/2020/as-the-crow-flies-title-LG.jpg",
+      "genres": ["documentary"],
+      "tags": ["documentary", "new releases"],
+      "releaseDate": "2016-09-14",
+      "content": {
+          "language": "en",
+          "dateAdded": "2020-12-07T14:14:54.431Z",
+          "captions": [
+            {
+              "url": "https://pstream.nfb.ca/FLASH/flash4/collection4/streams/TTXT/films/1001616_1001615_DM-10958_-.vtt",
+              "language": "en",
+              "captionType": "CLOSED_CAPTION"
+            }
+          ],
+          "duration": 5640,
+          "videos": [
+            {
+              "url": "https://www.kaltura.com/p/2081491/sp/0/playManifest/entryId/1_jcgl22bl/format/applehttp/protocol/https/flavorParamId/a/video.m3u8",
+              "quality": "FHD",
+              "videoType": "HLS"
+            }
+          ]
+       },
+       "rating": {
+         "rating": "PG",
+         "ratingSource": "CPR"
+       },
+       "credits": [
+         {
+            "name": "Test Girard",
+            "role": "director",
+            "birthDate": "1952-03-11"
+          }
+       ]
+    },
   ],
   "categories": [
     {
@@ -90,7 +130,7 @@
       "itemIds": [
           "94005",
           "94003",
-          "1509428502954"
+          "92301"
       ]
     }
   ]
