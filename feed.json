@@ -1,7 +1,7 @@
 {
   "providerName": "NFB",
   "language": "en-us",
-  "lastUpdated": "2020-01-06T08:42:00.000Z",
+  "lastUpdated": "2020-01-06T10:13:00.000Z",
   "movies": [
     {
       "id": "94005",
@@ -131,7 +131,7 @@
           "duration": 756,
           "videos": [
             {
-              "url": "https://migration-ovp-platform-2.s3.amazonaws.com/_mediaconvert/test_trick_play/iframe/sgaana/1014630.m3u8",
+              "url": "https://www.kaltura.com/p/2081491/sp/0/playManifest/entryId/1_wygp69v3/format/applehttp/protocol/https/flavorParamId/a/video.m3u8",
               "quality": "FHD",
               "videoType": "HLS"
             }
