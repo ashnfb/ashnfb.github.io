@@ -1,7 +1,7 @@
 {
   "providerName": "NFB",
   "language": "en-us",
-  "lastUpdated": "2020-01-05T15:42:00.000Z",
+  "lastUpdated": "2020-01-05T16:05:00.000Z",
   "movies": [
     {
       "id": "94005",
@@ -115,22 +115,139 @@
             "birthDate": "1952-03-11"
           }
        ]
+    },
+    {
+      "id": "34733",
+      "title": "The Juggler",
+      "shortDescription": "A juggler in a park opens his magic box and takes out 3 balls. The audience marvels at his dexterity, until one ball escapes. The mutinous ball takes on magical properties as it draws the juggler into a series of adventures with many levels of meaning: appearance, fantasy and love. Without words.",
+      "longDescription": "A juggler in a park opens his magic box and takes out 3 balls. The audience marvels at his dexterity, until one ball escapes. The mutinous ball takes on magical properties as it draws the juggler into a series of adventures with many levels of meaning: appearance, fantasy and love. Without words.",
+      "thumbnail": "https://dkyhanv6paotz.cloudfront.net/medias/nfb_tube/thumbs_large/2017/Le-Jongleur_1651_LG_S2oK8YG.jpg",
+      "genres": ["children", "adventure"],
+      "tags": ["kids movies"],
+      "releaseDate": "1980-01-01",
+      "content": {
+          "language": "fr",
+          "dateAdded": "2010-11-17T14:14:54.431Z",
+          "duration": 756,
+          "videos": [
+            {
+              "url": "https://www.kaltura.com/p/2081491/sp/0/playManifest/entryId/1_wygp69v3/format/applehttp/protocol/https/flavorParamId/a/video.m3u8",
+              "quality": "FHD",
+              "videoType": "HLS"
+            }
+          ]
+       },
+       "rating": {
+         "rating": "G",
+         "ratingSource": "CPR"
+       },
+       "credits": [
+         {
+            "name": "Thomas Vamos",
+            "role": "director",
+            "birthDate": "1952-03-11"
+          }
+       ]
+    },
+    {
+      "id": "17513",
+      "title": "The Bear and the Mouse",
+      "shortDescription": "A variation on a fable by Aesop (The Lion and the Mouse) in which a mouse aids a mighty lion who had once spared his life. This children's film casts real animals – with a big brown bear in the role of the lion, and proves that little friends can prove to be great friends indeed.",
+      "longDescription": "A variation on a fable by Aesop (The Lion and the Mouse) in which a mouse aids a mighty lion who had once spared his life. This children's film casts real animals – with a big brown bear in the role of the lion, and proves that little friends can prove to be great friends indeed.",
+      "thumbnail": "https://dkyhanv6paotz.cloudfront.net/medias/nfb_tube/thumbs_large/2012/The-bear-and-the-mouse_LG.jpg",
+      "genres": ["children", "adventure"],
+      "tags": ["kids movies"],
+      "releaseDate": "1966-01-01",
+      "content": {
+          "language": "en",
+          "dateAdded": "2010-05-17T14:14:54.431Z",
+          "duration": 461,
+          "videos": [
+            {
+              "url": "https://www.kaltura.com/p/2081491/sp/0/playManifest/entryId/1_go0tfqyi/format/applehttp/protocol/https/flavorParamId/a/video.m3u8",
+              "quality": "FHD",
+              "videoType": "HLS"
+            }
+          ]
+       },
+       "rating": {
+         "rating": "G",
+         "ratingSource": "CPR"
+       },
+       "credits": [
+          {
+            "name": "F.W. Remmler",
+            "role": "director",
+            "birthDate": "1952-03-11"
+          },
+          {
+            "name": "Ingmar Remmler",
+            "role": "director",
+            "birthDate": "1952-03-11"
+          }
+       ]
+    },
+    {
+      "id": "35081",
+      "title": "Ti-Jean Goes West",
+      "shortDescription": "Part comic adventure, part travelogue, this short film features the folkloric character of Ti-Jean, a French-Canadian kid endowed with magic powers. He travels west, drawing upon his superhuman strength to save a farmer’s crops. In their day (the 1950s) the Ti-Jean films were among the NFB’s most popular titles.",
+      "longDescription": "Part comic adventure, part travelogue, this short film features the folkloric character of Ti-Jean, a French-Canadian kid endowed with magic powers. He travels west, drawing upon his superhuman strength to save a farmer’s crops. In their day (the 1950s) the Ti-Jean films were among the NFB’s most popular titles.",
+      "thumbnail": "https://dkyhanv6paotz.cloudfront.net/medias/nfb_tube/thumbs_large/2013/Ti-Jean-goes-west_11126_LG.jpg",
+      "genres": ["children", "adventure"],
+      "tags": ["kids movies"],
+      "releaseDate": "1957-01-01",
+      "content": {
+          "language": "en",
+          "dateAdded": "2010-12-09T14:14:54.431Z",
+          "duration": 1406,
+          "videos": [
+            {
+              "url": "https://www.kaltura.com/p/2081491/sp/0/playManifest/entryId/1_5aj724ko/format/applehttp/protocol/https/flavorParamId/a/video.m3u8",
+              "quality": "FHD",
+              "videoType": "HLS"
+            }
+          ]
+       },
+       "rating": {
+         "rating": "G",
+         "ratingSource": "CPR"
+       },
+       "credits": [
+          {
+            "name": "Raymond Garceau",
+            "role": "director",
+            "birthDate": "1952-03-11"
+          }
+       ]
     }
   ],
   "categories": [
     {
       "name": "New Releases",
-      "playlistName": "new_releases",
+      "playlistName": "new releases",
+      "order": "manual"
+    },
+    {
+      "name": "Kid's Movies",
+      "playlistName": "kids movies",
       "order": "manual"
     }
   ],
   "playlists": [
     {
-      "name": "new_releases",
+      "name": "new releases",
       "itemIds": [
-          "94005",
-          "94003",
-          "92301"
+        "94005",
+        "94003",
+        "92301"
+      ]
+    },
+    {
+      "name": "kids movies",
+      "itemIds": [
+        "34733",
+        "17513",
+        "35081"
       ]
     }
   ]
